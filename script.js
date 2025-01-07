@@ -3,7 +3,7 @@ const accessKey ="uBwRmc05Q0ql1yTbZ1SmOr-Io0JJr2uAMkHVtDCZTE4";
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
 const searchResult = document.getElementById("search-result");
-const showMoreBtn = document.getElementById("search-more=btn");
+const showMoreBtn = document.getElementById("show-more-btn");
 
 let keyword ="";
 let page = 1;
